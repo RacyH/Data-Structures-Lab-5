@@ -6,6 +6,13 @@
 * alphabetical order, and in the order that the tree is.
 */
 
+/***********************
+*Just a random note. The required doc says that it should be able to sort in reverse alphabetical order. I was not sure if that meant
+*it should print in that order, as one of the methods dictated it should be, or if I should have made a reverse order method that would
+* reverse the sorting of the list. I just went with my instinct, which told me that being able to print in reverse alphabetical order
+*was enough to qualify.
+************************/
+
 #ifndef BITREE_H
 #define BITREE_H
 #include <iostream>
